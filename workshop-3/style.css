@@ -1,0 +1,168 @@
+@media{ (min-width:375px) AND (max-width:1440px)
+}
+body{
+    background-color:rgb(206, 203, 203);
+    font-size:16px;
+}
+.card-info{
+
+    background: #FFF;
+    width:650px;
+    height: 450px;
+    transform: translate(50%,15%);
+    border-radius: 10px;
+    position: relative;
+    margin:10px;
+
+}
+.info{
+    transform: translate(5%,45%);
+
+}
+.title{
+
+    color:hsl(179, 62%, 43%);
+    font-size:x-large;
+    font-family: 'specimen karla' ,sans-serif ;
+    font-weight: bold;
+
+}
+
+.day{
+    color: hsl(71, 73%, 54%);
+    font-size:large;
+    font-family:'specimen karla' ,sans-serif ;
+    transform: translate(0%,80%);
+    font-weight: bold;
+
+}
+.paragraphes{
+    color:gray;
+    font-family:'specimen karla',sans-serif ;
+    font-size: 14px;
+    text-align: justify;
+    transform: translate(0px,40px);
+    font-weight: bold;
+}
+
+ .paragraph
+ {
+    transform: translate(0px,10px);
+    color:gray;
+    font-family:'specimen karla',sans-serif ;
+    font-size: 14px;
+    text-align: justify;
+    transform: translate(0px,50px);
+    font-weight: bold;
+ }   
+
+ .information{
+
+    background :hsl(179, 62%, 43%);
+    width: 325px;
+    height: 226px;
+    transform: translate(0px,145px);
+    border-bottom-left-radius: 12px;
+    
+
+}
+.subscription{
+    color:hsl(204, 43%, 93%);
+    font-weight: bold;
+    font-family:'specimen karla',sans-serif ;
+    margin-inline: 40px;
+    transform: translate(0,30px);
+ 
+}
+.prix{
+    color:hsl(204, 43%, 93%);
+    font-family: 'specimen karla',sans-serif ;
+    transform: translate(20px,45px);
+    font-weight: bold;
+    font-size: xx-large;
+    margin-inline:19px;
+
+}
+span{
+    color: rgb(185, 184, 184);
+    font-size: 13px;
+    
+}
+.titre{
+    color:hsl(204, 43%, 93%);
+    font-family: 'specimen karla',sans-serif ;
+    transform: translate(40px,50px);
+    font-size: 14px;
+    }
+
+input{
+    transform: translate(30px,80px);
+    position:relative;
+    font-family: 'specimen karla',sans-serif;
+    font-size: 15px;
+    color:#ddd;
+    font-weight: bold;
+    width: 240px;
+    height: 47px;
+    background-color: hsl(71, 73%, 54%);
+    border:none;
+ 
+}
+
+
+.informations{
+   background-color: hsl(179, 64%, 46%);
+   width: 325px;
+   height:226px;
+   position: relative;
+   margin-inline: 350px;
+   transform: translate(-25px,-118px);
+   border-radius: 0px 0px 12px 0px;
+}
+
+.why{
+    font-family:'specimen karla',sans-serif ;
+    font-size: 16px;
+    font-weight:bold;
+    color:hsl(204, 43%, 93%);
+    transform: translate(0,40px);
+    margin-inline: 40px;
+
+}
+.text{
+    transform: translate(30px,50px);
+    font-family:'specimen karla',sans-serif ;
+    font-size:13px;
+    color:hsl(201, 14%, 80%);
+    transform: translate(0,57px);
+    margin-inline: 40px;
+
+}
+
+.ligne2{
+transform: translate(1px,-9px);
+}
+.ligne3{
+    transform: translate(1px,-19px);
+}
+.ligne4{
+
+    transform: translate(1px,-29px);}
+
+.ligne5{
+    transform: translate(1px,-39px);
+}
+.ligne6{
+    transform: translate(1px,-50px);
+}
+
+
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    transform: translate(15px,200px);
+}
+.attribution a {
+     color: hsl(228, 45%, 44%);
+     }
